@@ -30,7 +30,7 @@
 <img src="img/batch/main-1.png" width="90%" height="90%" style="margin-left: auto; margin-right: auto; display: block;">
 
 #### 처리과정
-<img src="img/batch/log-1.PNG" width="90%" height="90%" style="margin-left: auto; margin-right: auto; display: block;">
+<img src="img/batch/log-1.png" width="90%" height="90%" style="margin-left: auto; margin-right: auto; display: block;">
 
 <br>
 
